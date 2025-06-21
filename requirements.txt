@@ -1,4 +1,6 @@
+streamlit
 pandas
-Streamlit
+numpy
 tensorflow
-scikit-learn
+sklearn
+base64
